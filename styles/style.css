@@ -83,6 +83,10 @@ ol {
 
 .title {
   margin-bottom: 26px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 75px;
+  text-transform: uppercase;
+  line-height: 0.94;
 }
 
 .result__video-container {
@@ -126,13 +130,6 @@ ol {
   font-size: 18px;
   font-weight: 400;
   padding-bottom: 5px;
-}
-
-.title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 75px;
-  text-transform: uppercase;
-  line-height: 0.94;
 }
 
 .content__accent {
@@ -304,7 +301,6 @@ ol {
 .content__list-item {
   padding: 3px;
 }
-
 
 /* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
